@@ -1,6 +1,8 @@
 .body{
     height: 600px;
+    overflow-x: hidden;
 }
+
 .header{
     font-family: 'Times New Roman', Times, serif;
     font-size: 75px;
@@ -1004,11 +1006,425 @@ a {text-decoration: none;}
     border: 4px solid rgb(2, 148, 12);
 }
 
+.flagstitle{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: black;
+    top: 155px;
+    padding-right: 100px;
+    padding-left: 20px;
+    position: absolute;
+}
 
 .rf-1{
     position: absolute;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 12px;
+    font-size: 10px;
     padding-right: 1000px;
-    padding-left: 20px; 
+    padding-left: 20px;
+    top: 220px;
 }
+
+.rf-2{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    padding-right: 1000px;
+    padding-left: 20px;
+    top: 270px;
+}
+
+.rf-3{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    padding-right: 1000px;
+    padding-left: 20px;
+    top: 310px;
+}
+
+.rf-4{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    padding-right: 1000px;
+    padding-left: 20px;
+    top: 350px;
+}
+
+.rf-5{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    padding-right: 1000px;
+    padding-left: 20px;
+    top: 390px;
+}
+
+.rf-6{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    padding-right: 1000px;
+    padding-left: 20px;
+    top: 430px;
+}
+
+.rf-7{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    padding-right: 1000px;
+    padding-left: 20px;
+    top: 470px;
+}
+
+.rf-8{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    padding-right: 1000px;
+    padding-left: 20px;
+    top: 510px;
+}
+
+.rf-9{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    padding-right: 1000px;
+    padding-left: 20px;
+    top: 550px;
+}
+
+.timelinetitle{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: black;
+    top: 600px;
+    padding-right: 100px;
+    padding-left: 20px;
+    position: absolute;
+}
+
+.rf-10{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    padding-right: 1000px;
+    padding-left: 20px;
+    top: 660px;
+}
+
+.rf-11{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    padding-right: 1000px;
+    padding-left: 20px;
+    top: 710px;
+}
+
+.rf-12{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    padding-right: 1000px;
+    padding-left: 20px;
+    top: 750px;
+}
+
+.rf-13{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    padding-right: 1000px;
+    padding-left: 20px;
+    top: 790px;
+}
+
+.rf-14{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    padding-right: 1000px;
+    padding-left: 20px;
+    top: 840px;
+}
+
+.rf-15{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    padding-right: 1000px;
+    padding-left: 20px;
+    top: 880px;
+}
+
+.rf-16{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    padding-right: 1000px;
+    padding-left: 20px;
+    top: 920px;
+}
+
+.rf-17{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    padding-right: 1000px;
+    padding-left: 20px;
+    top: 960px;
+}
+
+.rf-18{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    padding-right: 1000px;
+    padding-left: 20px;
+    top: 1010px;
+}
+
+.rf-19{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    padding-right: 1000px;
+    padding-left: 20px;
+    top: 1070px;
+}
+
+.rf-20{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    padding-right: 1000px;
+    padding-left: 20px;
+    top: 1120px;
+}
+
+.rf-21{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    padding-right: 1000px;
+    padding-left: 20px;
+    top: 1170px;
+}
+
+.journaliststitle{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: black;
+    top: 1230px;
+    padding-right: 100px;
+    padding-left: 20px;
+    position: absolute;
+}
+
+.rf-22{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    padding-right: 1000px;
+    padding-left: 20px;
+    top: 1280px;
+}
+
+.rf-23{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    padding-right: 1000px;
+    padding-left: 20px;
+    top: 1330px;
+}
+
+.rf-24{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    padding-right: 1000px;
+    padding-left: 20px;
+    top: 1380px;
+}
+
+
+.rf-25{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    padding-right: 1000px;
+    padding-left: 20px;
+    top: 1430px;
+}
+
+.rf-26{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    padding-right: 1000px;
+    padding-left: 20px;
+    top: 1480px;
+}
+
+.rf-27{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    padding-right: 1000px;
+    padding-left: 20px;
+    top: 1530px;
+}
+
+.rf-28{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    padding-right: 1000px;
+    padding-left: 20px;
+    top: 1580px;
+}
+
+.rf-29{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    padding-right: 1000px;
+    padding-left: 20px;
+    top: 1630px;
+}
+
+.rf-30{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    padding-right: 1000px;
+    padding-left: 20px;
+    top: 1680px;
+}
+
+.rf-31{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    padding-right: 1000px;
+    padding-left: 20px;
+    top: 1730px;
+}
+
+.mediastitle{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: black;
+    top: 1800px;
+    padding-right: 100px;
+    padding-left: 20px;
+    position: absolute;  
+}
+
+
+.rf-32{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    padding-right: 1000px;
+    padding-left: 20px;
+    top: 1860px;
+}
+
+.rf-33{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    padding-right: 1000px;
+    padding-left: 20px;
+    top: 1910px;
+}
+
+
+.rf-34{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    padding-right: 1000px;
+    padding-left: 20px;
+    top: 1960px;
+}
+
+.rf-35{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    padding-right: 1000px;
+    padding-left: 20px;
+    top: 2010px;
+}
+
+.rf-36{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    padding-right: 1000px;
+    padding-left: 20px;
+    top: 2060px;
+}
+
+.rf-37{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    padding-right: 1000px;
+    padding-left: 20px;
+    top: 2110px;
+}
+
+.rf-38{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    padding-right: 1000px;
+    padding-left: 20px;
+    top: 2160px;
+}
+
+.rf-39{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    padding-right: 1000px;
+    padding-left: 20px;
+    top: 2210px;
+}
+
+.rf-40{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    padding-right: 1000px;
+    padding-left: 20px;
+    top: 2260px;
+}
+
+.rf-41{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    padding-right: 1000px;
+    padding-left: 20px;
+    top: 2310px;
+}
+
+.rf-42{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    padding-right: 1000px;
+    padding-left: 20px;
+    top: 2360px;
+}
+
+
